@@ -1,0 +1,200 @@
+"","Year","MonthOfYear","DayOfMonth","HourOfDay","MinutesOfHour","Month","DayOfWeek","DayOfYear","Action","Temperature"
+"1",2017,9,26,12,3,"Sep","Tue",269,"Temperature Inside",20
+"2",2017,9,26,12,4,"Sep","Tue",269,"Temperature Outside",17
+"3",2017,9,26,12,5,"Sep","Tue",269,"Water",NA
+"4",2017,9,26,15,31,"Sep","Tue",269,"Toilet #1",NA
+"5",2017,9,26,15,45,"Sep","Tue",269,"Water",NA
+"6",2017,9,26,17,31,"Sep","Tue",269,"Water",NA
+"7",2017,9,26,18,6,"Sep","Tue",269,"Coffee",NA
+"8",2017,9,26,19,12,"Sep","Tue",269,"Water",NA
+"9",2017,9,26,19,22,"Sep","Tue",269,"Toilet #1",NA
+"10",2017,9,26,19,33,"Sep","Tue",269,"Water",NA
+"11",2017,9,26,21,8,"Sep","Tue",269,"Water",NA
+"12",2017,9,27,0,5,"Sep","Wed",270,"Toilet #1",NA
+"13",2017,9,27,0,5,"Sep","Wed",270,"Water",NA
+"14",2017,9,27,9,44,"Sep","Wed",270,"Toilet #1",NA
+"15",2017,9,27,11,44,"Sep","Wed",270,"Temperature Inside",18
+"16",2017,9,27,11,45,"Sep","Wed",270,"Temperature Outside",16
+"17",2017,9,27,13,32,"Sep","Wed",270,"Coffee",NA
+"18",2017,9,27,13,39,"Sep","Wed",270,"Water",NA
+"19",2017,9,27,13,48,"Sep","Wed",270,"Water",NA
+"20",2017,9,27,15,12,"Sep","Wed",270,"Toilet #1",NA
+"21",2017,9,27,18,12,"Sep","Wed",270,"Water",NA
+"22",2017,9,28,0,36,"Sep","Thu",271,"Toilet #1",NA
+"23",2017,9,28,6,22,"Sep","Thu",271,"Toilet #1",NA
+"24",2017,9,28,6,40,"Sep","Thu",271,"Temperature Inside",17
+"25",2017,9,28,6,40,"Sep","Thu",271,"Temperature Outside",12
+"26",2017,9,28,11,8,"Sep","Thu",271,"Toilet #1",NA
+"27",2017,9,28,12,25,"Sep","Thu",271,"Water",NA
+"28",2017,9,28,13,27,"Sep","Thu",271,"Toilet #1",NA
+"29",2017,9,28,20,23,"Sep","Thu",271,"Water",NA
+"30",2017,9,29,1,5,"Sep","Fri",272,"Toilet #1",NA
+"31",2017,9,29,9,32,"Sep","Fri",272,"Water",NA
+"32",2017,9,29,9,33,"Sep","Fri",272,"Toilet #1",NA
+"33",2017,9,29,9,40,"Sep","Fri",272,"Temperature Outside",17
+"34",2017,9,29,12,8,"Sep","Fri",272,"Toilet #1",NA
+"35",2017,9,29,19,39,"Sep","Fri",272,"Temperature Inside",19
+"36",2017,9,29,19,58,"Sep","Fri",272,"Toilet #1",NA
+"37",2017,9,29,22,5,"Sep","Fri",272,"Toilet #1",NA
+"38",2017,9,29,22,5,"Sep","Fri",272,"Water",NA
+"39",2017,9,29,23,9,"Sep","Fri",272,"Toilet #1",NA
+"40",2017,9,29,23,9,"Sep","Fri",272,"Water",NA
+"41",2017,9,30,8,38,"Sep","Sat",273,"Toilet #1",NA
+"42",2017,9,30,9,40,"Sep","Sat",273,"Temperature Inside",17
+"43",2017,9,30,9,43,"Sep","Sat",273,"Temperature Outside",9
+"44",2017,10,1,7,12,"Oct","Sun",274,"Toilet #1",NA
+"45",2017,10,1,10,11,"Oct","Sun",274,"Temperature Outside",14
+"46",2017,10,1,10,12,"Oct","Sun",274,"Temperature Inside",20
+"47",2017,10,1,13,4,"Oct","Sun",274,"Toilet #1",NA
+"48",2017,10,1,15,8,"Oct","Sun",274,"Water",NA
+"49",2017,10,1,16,5,"Oct","Sun",274,"Water",NA
+"50",2017,10,1,17,3,"Oct","Sun",274,"Water",NA
+"51",2017,10,1,17,53,"Oct","Sun",274,"Toilet #1",NA
+"52",2017,10,1,18,43,"Oct","Sun",274,"Water",NA
+"53",2017,10,1,20,9,"Oct","Sun",274,"Water",NA
+"54",2017,10,1,21,58,"Oct","Sun",274,"Water",NA
+"55",2017,10,1,22,19,"Oct","Sun",274,"Toilet #1",NA
+"56",2017,10,2,0,1,"Oct","Mon",275,"Toilet #1",NA
+"57",2017,10,2,0,28,"Oct","Mon",275,"Water",NA
+"58",2017,10,2,8,41,"Oct","Mon",275,"Toilet #1",NA
+"59",2017,10,2,9,1,"Oct","Mon",275,"Temperature Inside",17
+"60",2017,10,2,9,1,"Oct","Mon",275,"Temperature Outside",13
+"61",2017,10,2,10,56,"Oct","Mon",275,"Coffee",NA
+"62",2017,10,2,11,7,"Oct","Mon",275,"Toilet #1",NA
+"63",2017,10,2,12,27,"Oct","Mon",275,"Toilet #1",NA
+"64",2017,10,2,14,20,"Oct","Mon",275,"Water",NA
+"65",2017,10,2,14,22,"Oct","Mon",275,"Toilet #1",NA
+"66",2017,10,2,22,47,"Oct","Mon",275,"Water",NA
+"67",2017,10,3,1,11,"Oct","Tue",276,"Water",NA
+"68",2017,10,3,9,45,"Oct","Tue",276,"Toilet #1",NA
+"69",2017,10,3,12,6,"Oct","Tue",276,"Temperature Inside",19
+"70",2017,10,3,12,9,"Oct","Tue",276,"Temperature Outside",13
+"71",2017,10,3,21,42,"Oct","Tue",276,"Water",NA
+"72",2017,10,3,23,57,"Oct","Tue",276,"Toilet #1",NA
+"73",2017,10,4,9,54,"Oct","Wed",277,"Toilet #1",NA
+"74",2017,10,4,10,5,"Oct","Wed",277,"Temperature Inside",19
+"75",2017,10,4,10,5,"Oct","Wed",277,"Temperature Outside",10
+"76",2017,10,4,11,28,"Oct","Wed",277,"Coffee",NA
+"77",2017,10,4,11,33,"Oct","Wed",277,"Water",NA
+"78",2017,10,4,14,5,"Oct","Wed",277,"Toilet #1",NA
+"79",2017,10,4,14,24,"Oct","Wed",277,"Water",NA
+"80",2017,10,4,15,13,"Oct","Wed",277,"Toilet #1",NA
+"81",2017,10,4,21,46,"Oct","Wed",277,"Toilet #1",NA
+"82",2017,10,5,7,54,"Oct","Thu",278,"Water",NA
+"83",2017,10,5,8,4,"Oct","Thu",278,"Toilet #1",NA
+"84",2017,10,5,12,0,"Oct","Thu",278,"Temperature Inside",18
+"85",2017,10,5,12,0,"Oct","Thu",278,"Temperature Outside",9
+"86",2017,10,5,21,38,"Oct","Thu",278,"Water",NA
+"87",2017,10,5,23,57,"Oct","Thu",278,"Toilet #1",NA
+"88",2017,10,6,8,40,"Oct","Fri",279,"Toilet #1",NA
+"89",2017,10,6,14,59,"Oct","Fri",279,"Toilet #1",NA
+"90",2017,10,6,15,2,"Oct","Fri",279,"Water",NA
+"91",2017,10,6,16,0,"Oct","Fri",279,"Water",NA
+"92",2017,10,6,19,46,"Oct","Fri",279,"Toilet #1",NA
+"93",2017,10,6,21,37,"Oct","Fri",279,"Water",NA
+"94",2017,10,6,21,37,"Oct","Fri",279,"Temperature Inside",17
+"95",2017,10,6,21,38,"Oct","Fri",279,"Temperature Outside",6
+"96",2017,10,7,8,58,"Oct","Sat",280,"Toilet #1",NA
+"97",2017,10,7,11,17,"Oct","Sat",280,"Toilet #1",NA
+"98",2017,10,7,11,59,"Oct","Sat",280,"Water",NA
+"99",2017,10,7,11,59,"Oct","Sat",280,"Temperature Inside",19
+"100",2017,10,7,11,59,"Oct","Sat",280,"Temperature Outside",10
+"101",2017,10,7,13,46,"Oct","Sat",280,"Water",NA
+"102",2017,10,7,15,39,"Oct","Sat",280,"Water",NA
+"103",2017,10,7,22,41,"Oct","Sat",280,"Toilet #1",NA
+"104",2017,10,8,9,7,"Oct","Sun",281,"Water",NA
+"105",2017,10,8,9,36,"Oct","Sun",281,"Toilet #1",NA
+"106",2017,10,8,11,50,"Oct","Sun",281,"Toilet #1",NA
+"107",2017,10,8,13,16,"Oct","Sun",281,"Water",NA
+"108",2017,10,8,15,47,"Oct","Sun",281,"Water",NA
+"109",2017,10,8,16,36,"Oct","Sun",281,"Temperature Inside",17
+"110",2017,10,8,16,37,"Oct","Sun",281,"Temperature Outside",7
+"111",2017,10,8,16,40,"Oct","Sun",281,"Water",NA
+"112",2017,10,8,20,12,"Oct","Sun",281,"Toilet #1",NA
+"113",2017,10,8,22,15,"Oct","Sun",281,"Toilet #1",NA
+"114",2017,10,9,10,8,"Oct","Mon",282,"Toilet #1",NA
+"115",2017,10,9,10,33,"Oct","Mon",282,"Water",NA
+"116",2017,10,9,10,59,"Oct","Mon",282,"Water",NA
+"117",2017,10,9,11,26,"Oct","Mon",282,"Water",NA
+"118",2017,10,9,16,5,"Oct","Mon",282,"Toilet #1",NA
+"119",2017,10,9,16,16,"Oct","Mon",282,"Water",NA
+"120",2017,10,9,17,36,"Oct","Mon",282,"Toilet #1",NA
+"121",2017,10,9,18,31,"Oct","Mon",282,"Water",NA
+"122",2017,10,9,20,59,"Oct","Mon",282,"Water",NA
+"123",2017,10,9,22,28,"Oct","Mon",282,"Water",NA
+"124",2017,10,9,22,28,"Oct","Mon",282,"Toilet #1",NA
+"125",2017,10,10,10,35,"Oct","Tue",283,"Toilet #1",NA
+"126",2017,10,10,13,21,"Oct","Tue",283,"Temperature Inside",18
+"127",2017,10,10,15,20,"Oct","Tue",283,"Toilet #1",NA
+"128",2017,10,10,16,47,"Oct","Tue",283,"Coffee",NA
+"129",2017,10,10,16,48,"Oct","Tue",283,"Temperature Outside",9
+"130",2017,10,10,17,4,"Oct","Tue",283,"Water",NA
+"131",2017,10,10,17,4,"Oct","Tue",283,"Water",NA
+"132",2017,10,10,17,4,"Oct","Tue",283,"Toilet #1",NA
+"133",2017,10,10,19,11,"Oct","Tue",283,"Toilet #1",NA
+"134",2017,10,10,22,20,"Oct","Tue",283,"Toilet #1",NA
+"135",2017,10,10,22,28,"Oct","Tue",283,"Water",NA
+"136",2017,10,11,3,25,"Oct","Wed",284,"Toilet #1",NA
+"137",2017,10,11,11,45,"Oct","Wed",284,"Toilet #1",NA
+"138",2017,10,11,12,38,"Oct","Wed",284,"Water",NA
+"139",2017,10,11,12,54,"Oct","Wed",284,"Temperature Inside",20
+"140",2017,10,11,12,54,"Oct","Wed",284,"Temperature Outside",12
+"141",2017,10,11,15,36,"Oct","Wed",284,"Toilet #1",NA
+"142",2017,10,11,16,23,"Oct","Wed",284,"Water",NA
+"143",2017,10,11,16,58,"Oct","Wed",284,"Water",NA
+"144",2017,10,11,17,7,"Oct","Wed",284,"Toilet #1",NA
+"145",2017,10,11,19,9,"Oct","Wed",284,"Toilet #1",NA
+"146",2017,10,11,22,10,"Oct","Wed",284,"Toilet #1",NA
+"147",2017,10,12,0,10,"Oct","Thu",285,"Toilet #1",NA
+"148",2017,10,12,1,31,"Oct","Thu",285,"Toilet #1",NA
+"149",2017,10,12,10,10,"Oct","Thu",285,"Water",NA
+"150",2017,10,12,11,23,"Oct","Thu",285,"Water",NA
+"151",2017,10,12,11,36,"Oct","Thu",285,"Water",NA
+"152",2017,10,12,11,43,"Oct","Thu",285,"Water",NA
+"153",2017,10,12,11,45,"Oct","Thu",285,"Toilet #1",NA
+"154",2017,10,12,12,16,"Oct","Thu",285,"Temperature Outside",11
+"155",2017,10,12,12,17,"Oct","Thu",285,"Temperature Inside",18
+"156",2017,10,12,17,51,"Oct","Thu",285,"Toilet #1",NA
+"157",2017,10,12,17,52,"Oct","Thu",285,"Water",NA
+"158",2017,10,12,21,41,"Oct","Thu",285,"Toilet #1",NA
+"159",2017,10,13,1,4,"Oct","Fri",286,"Toilet #1",NA
+"160",2017,10,13,1,7,"Oct","Fri",286,"Water",NA
+"161",2017,10,13,11,29,"Oct","Fri",286,"Toilet #1",NA
+"162",2017,10,13,12,16,"Oct","Fri",286,"Water",NA
+"163",2017,10,13,12,16,"Oct","Fri",286,"Temperature Outside",9
+"164",2017,10,13,12,17,"Oct","Fri",286,"Temperature Inside",17
+"165",2017,10,13,13,41,"Oct","Fri",286,"Toilet #1",NA
+"166",2017,10,13,15,23,"Oct","Fri",286,"Toilet #1",NA
+"167",2017,10,13,15,33,"Oct","Fri",286,"Water",NA
+"168",2017,10,13,22,47,"Oct","Fri",286,"Toilet #1",NA
+"169",2017,10,14,8,20,"Oct","Sat",287,"Toilet #1",NA
+"170",2017,10,14,8,50,"Oct","Sat",287,"Temperature Inside",21
+"171",2017,10,14,8,50,"Oct","Sat",287,"Temperature Outside",15
+"172",2017,10,14,9,19,"Oct","Sat",287,"Water",NA
+"173",2017,10,14,17,20,"Oct","Sat",287,"Toilet #1",NA
+"174",2017,10,14,17,23,"Oct","Sat",287,"Water",NA
+"175",2017,10,14,18,7,"Oct","Sat",287,"Water",NA
+"176",2017,10,14,18,23,"Oct","Sat",287,"Toilet #1",NA
+"177",2017,10,14,19,15,"Oct","Sat",287,"Toilet #1",NA
+"178",2017,10,14,19,34,"Oct","Sat",287,"Water",NA
+"179",2017,10,14,20,35,"Oct","Sat",287,"Toilet #1",NA
+"180",2017,10,14,21,17,"Oct","Sat",287,"Water",NA
+"181",2017,10,14,22,11,"Oct","Sat",287,"Water",NA
+"182",2017,10,15,0,42,"Oct","Sun",288,"Toilet #1",NA
+"183",2017,10,15,1,18,"Oct","Sun",288,"Toilet #1",NA
+"184",2017,10,15,9,42,"Oct","Sun",288,"Toilet #1",NA
+"185",2017,10,15,10,50,"Oct","Sun",288,"Water",NA
+"186",2017,10,15,11,50,"Oct","Sun",288,"Water",NA
+"187",2017,10,15,18,6,"Oct","Sun",288,"Toilet #1",NA
+"188",2017,10,15,19,18,"Oct","Sun",288,"Water",NA
+"189",2017,10,15,20,44,"Oct","Sun",288,"Toilet #1",NA
+"190",2017,10,15,21,11,"Oct","Sun",288,"Water",NA
+"191",2017,10,15,23,1,"Oct","Sun",288,"Toilet #1",NA
+"192",2017,10,15,23,1,"Oct","Sun",288,"Temperature Inside",17
+"193",2017,10,15,23,1,"Oct","Sun",288,"Temperature Outside",13
+"194",2017,10,16,9,2,"Oct","Mon",289,"Toilet #1",NA
+"195",2017,10,16,10,21,"Oct","Mon",289,"Water",NA
+"196",2017,10,16,13,22,"Oct","Mon",289,"Water",NA
+"197",2017,10,16,13,23,"Oct","Mon",289,"Temperature Inside",19
+"198",2017,10,16,13,23,"Oct","Mon",289,"Temperature Outside",15
+"199",2017,10,16,13,33,"Oct","Mon",289,"Toilet #1",NA

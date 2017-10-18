@@ -1,0 +1,21 @@
+"","Year","MonthOfYear","DayOfMonth","HourOfDay","MinutesOfHour","Month","DayOfWeek","DayOfYear","Action","Temperature"
+"2",2017,9,26,12,4,"Sep","Tue",269,"Temperature Outside",17
+"16",2017,9,27,11,45,"Sep","Wed",270,"Temperature Outside",16
+"25",2017,9,28,6,40,"Sep","Thu",271,"Temperature Outside",12
+"33",2017,9,29,9,40,"Sep","Fri",272,"Temperature Outside",17
+"43",2017,9,30,9,43,"Sep","Sat",273,"Temperature Outside",9
+"45",2017,10,1,10,11,"Oct","Sun",274,"Temperature Outside",14
+"60",2017,10,2,9,1,"Oct","Mon",275,"Temperature Outside",13
+"70",2017,10,3,12,9,"Oct","Tue",276,"Temperature Outside",13
+"75",2017,10,4,10,5,"Oct","Wed",277,"Temperature Outside",10
+"85",2017,10,5,12,0,"Oct","Thu",278,"Temperature Outside",9
+"95",2017,10,6,21,38,"Oct","Fri",279,"Temperature Outside",6
+"100",2017,10,7,11,59,"Oct","Sat",280,"Temperature Outside",10
+"110",2017,10,8,16,37,"Oct","Sun",281,"Temperature Outside",7
+"129",2017,10,10,16,48,"Oct","Tue",283,"Temperature Outside",9
+"140",2017,10,11,12,54,"Oct","Wed",284,"Temperature Outside",12
+"154",2017,10,12,12,16,"Oct","Thu",285,"Temperature Outside",11
+"163",2017,10,13,12,16,"Oct","Fri",286,"Temperature Outside",9
+"171",2017,10,14,8,50,"Oct","Sat",287,"Temperature Outside",15
+"193",2017,10,15,23,1,"Oct","Sun",288,"Temperature Outside",13
+"198",2017,10,16,13,23,"Oct","Mon",289,"Temperature Outside",15

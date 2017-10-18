@@ -1,0 +1,21 @@
+"","Year","MonthOfYear","DayOfMonth","HourOfDay","MinutesOfHour","Month","DayOfWeek","DayOfYear","Action","Temperature"
+"1",2017,9,26,12,3,"Sep","Tue",269,"Temperature Inside",20
+"15",2017,9,27,11,44,"Sep","Wed",270,"Temperature Inside",18
+"24",2017,9,28,6,40,"Sep","Thu",271,"Temperature Inside",17
+"35",2017,9,29,19,39,"Sep","Fri",272,"Temperature Inside",19
+"42",2017,9,30,9,40,"Sep","Sat",273,"Temperature Inside",17
+"46",2017,10,1,10,12,"Oct","Sun",274,"Temperature Inside",20
+"59",2017,10,2,9,1,"Oct","Mon",275,"Temperature Inside",17
+"69",2017,10,3,12,6,"Oct","Tue",276,"Temperature Inside",19
+"74",2017,10,4,10,5,"Oct","Wed",277,"Temperature Inside",19
+"84",2017,10,5,12,0,"Oct","Thu",278,"Temperature Inside",18
+"94",2017,10,6,21,37,"Oct","Fri",279,"Temperature Inside",17
+"99",2017,10,7,11,59,"Oct","Sat",280,"Temperature Inside",19
+"109",2017,10,8,16,36,"Oct","Sun",281,"Temperature Inside",17
+"126",2017,10,10,13,21,"Oct","Tue",283,"Temperature Inside",18
+"139",2017,10,11,12,54,"Oct","Wed",284,"Temperature Inside",20
+"155",2017,10,12,12,17,"Oct","Thu",285,"Temperature Inside",18
+"164",2017,10,13,12,17,"Oct","Fri",286,"Temperature Inside",17
+"170",2017,10,14,8,50,"Oct","Sat",287,"Temperature Inside",21
+"192",2017,10,15,23,1,"Oct","Sun",288,"Temperature Inside",17
+"197",2017,10,16,13,23,"Oct","Mon",289,"Temperature Inside",19
