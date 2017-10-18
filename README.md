@@ -9,22 +9,22 @@
 
 patrick.csv	
 
-**Cleaned up data:
+**Cleaned up data:**
 
 datacollectionpatrick.csv	
 
-**All bathroom breaks:
+**All bathroom breaks:**
 
 bathroom.patrick.csv	
  
-**Only the temperature inside:
+**Only the temperature inside:**
 
 tempin.patrick.csv	
  
-**Only the temperature outside:
+**Only the temperature outside:**
 
 tempout.patrick.csv	
  
-**All water/fluid intakes:
+**All water/fluid intakes:**
 
 water.patrick.csv
