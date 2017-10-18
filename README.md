@@ -1,7 +1,7 @@
 
-#Data collected for the course Scientific Theories and Methods
+# Data collected for the course Scientific Theories and Methods
 
-##The files presented here and the explanation:
+## The files presented here and the explanation:
 
 ---
 
